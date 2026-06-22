@@ -2,6 +2,9 @@
 
 <img width="100%" alt="to_my_profile" src="https://github.com/user-attachments/assets/a548a362-e3db-473a-a590-a897e26231cd" />
 
+<img width="100%" alt="learnToMakeYourOwn" src="https://github.com/user-attachments/assets/045cec62-4e85-4dfb-834f-b6f0a4b7cfaf" />
+
+
 <!--
 **Sockonacab/Sockonacab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
