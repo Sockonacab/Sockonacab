@@ -4,7 +4,7 @@
 
 <img width="100%" alt="learnToMakeYourOwn" src="https://github.com/user-attachments/assets/045cec62-4e85-4dfb-834f-b6f0a4b7cfaf" />
 
-<a href="[http//www.google.com](https://github.com/Sockonacab/blender_retro_text_generator)"><p style="text-align:center">Blender Retro Text Script</p></a>
+<a href="https://github.com/Sockonacab/blender_retro_text_generator"><p style="text-align:center">Blender Retro Text Script</p></a>
 
 
 <!--
