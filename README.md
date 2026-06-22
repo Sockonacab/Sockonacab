@@ -3,6 +3,7 @@
 <img width="100%" alt="to_my_profile" src="https://github.com/user-attachments/assets/a548a362-e3db-473a-a590-a897e26231cd" />
 
 <img width="100%" alt="learnToMakeYourOwn" src="https://github.com/user-attachments/assets/045cec62-4e85-4dfb-834f-b6f0a4b7cfaf" />
+<img width="100%" alt="learnToMakeYourOwnGig" src="https://github.com/user-attachments/assets/9e70ce7c-ebeb-408e-9ce9-82bbd34ddde4" />
 
 <a href="https://github.com/Sockonacab/blender_retro_text_generator">Blender Retro Text Script</a>
 
