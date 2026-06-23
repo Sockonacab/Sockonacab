@@ -4,7 +4,7 @@
 
 <img width="100%" alt="learn_to_make_your_own_gif" src="https://github.com/user-attachments/assets/9e70ce7c-ebeb-408e-9ce9-82bbd34ddde4" />
 
-<a href="https://github.com/Sockonacab/blender_retro_text_generator">Blender Retro Text Script</a>
+<a href="https://github.com/Sockonacab/blender_retro_text_generator"><img width="100%" alt="clickHere" src="https://github.com/user-attachments/assets/ef94113a-d838-4928-abea-46699e13dcec" /></a>
 
 
 <!--
