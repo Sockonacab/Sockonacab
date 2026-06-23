@@ -4,7 +4,7 @@
 
 <img width="100%" alt="learn_to_make_your_own_gif" src="https://github.com/user-attachments/assets/9e70ce7c-ebeb-408e-9ce9-82bbd34ddde4" />
 
-<a href="https://github.com/Sockonacab/blender_retro_text_generator"><img width="100%" alt="clickHere" src="https://github.com/user-attachments/assets/ef94113a-d838-4928-abea-46699e13dcec" /></a>
+<a href="https://github.com/Sockonacab/blender_retro_text_generator"><img width="100%" alt="clickMe" src="https://github.com/user-attachments/assets/19b47a22-ad8d-40b9-833a-5c4ec8cc81e5" /></a>
 
 
 <!--
